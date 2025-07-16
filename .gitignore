@@ -1,0 +1,29 @@
+# === Node Modules ===
+node_modules/
+client/node_modules/
+
+# === Environment Files ===
+.env
+client/.env
+
+# === Logs ===
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# === Build Folders ===
+dist/
+build/
+client/build/
+client/dist/
+
+# === Vite Cache ===
+.vite/
+client/.vite/
+
+# === OS / Editor Config ===
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
